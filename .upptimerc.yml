@@ -6,6 +6,7 @@ sites:
     url: https://ltmpt.ac.id
   - name: Portal LTMPT
     url: https://portal.ltmpt.ac.id
+    __dangerous__body_down: Kami sedang melakukan proses maintenance, harap coba lagi nanti
   - name: Laman Unduhan LTMPT
     url: https://download.ltmpt.ac.id/
 
