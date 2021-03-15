@@ -1,0 +1,114 @@
+owner: Hans5958
+repo: LTMPT-Upptime
+
+sites:
+  - name: Situs Utama LTMPT
+    url: https://ltmpt.ac.id
+  - name: Portal LTMPT
+    url: https://portal.ltmpt.ac.id
+  - name: Laman Unduhan LTMPT
+    url: https://download.ltmpt.ac.id/
+
+status-website:
+  name: LTMPT Upptime (tidak resmi)
+  cname: ltmpt-upptime.netlify.app
+  introTitle: Selamat datang di halaman status tidak resmi **[LTMPT](https://ltmpt.ac.id)**.
+  introMessage: Ini adalah halaman status untuk situs-situs [LTMPT](https://ltmpt.ac.id). Layanan ini memantau secara gratis berkat [Upptime](https://github.com/upptime/upptime).
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+user-agent: Auto5958
+commitMessages:
+  commitAuthorName: Auto5958
+  commitAuthorEmail: 69833949+Auto5958@users.noreply.github.com
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
+i18n:
+  activeIncidents: Insiden Aktif
+  allSystemsOperational: Semua sistem beroperasi
+  incidentReport: "Laporan insiden $NUMBER →"
+  activeIncidentSummary: Dibuka pada $DATE dengan $POSTS post
+  incidentTitle: Rincian Insiden $NUMBER 
+  incidentDetails: Rincian Insiden
+  incidentFixed: Diperbaiki
+  incidentOngoing: Berlangsung
+  incidentOpenedAt: Dibuka pada
+  incidentClosedAt: Ditutup pada
+  incidentSubscribe: Berlangganan untuk Pembaruan
+  incidentViewOnGitHub: View on GitHub
+  incidentCommentSummary: Dipos pada $DATE oleh $AUTHOR
+  incidentBack: ← Kembali ke seluruh insiden
+  pastIncidents: Insiden-Insiden Sebelumnya
+  pastIncidentsResolved: Diselesaikan selama $MINUTES menit dengan $POSTS post
+  liveStatus: Status Langsung
+  overallUptime: "Waktu nyala keseluruhan: $UPTIME"
+  overallUptimeTitle: Waktu nyala keseluruhan
+  averageResponseTime: "Rata-rata waktu respons: $TIMEms"
+  averageResponseTimeTitle: Rata-rata respons
+  sevelDayResponseTime: Waktu respons untuk 7 hari
+  responseTimeMs: Waktu respons (ms)
+  up: Aktif
+  down: Mati
+  degraded: Terdegradasi 
+  ms: ms
+  loading: Memuat
+  navGitHub: GitHub
+  footer: Halaman ini [bersumber terbuka]($REPO), didukung oleh [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Batas tarif terlampaui
+  rateLimitExceededIntro: Anda telah melebihi jumlah permintaan yang dapat Anda lakukan dalam satu jam, jadi Anda harus menunggu sebelum mengakses situs ini lagi. Sebagai alternatif, Anda dapat menambahkan Token Akses Pribadi GitHub untuk terus menggunakan situs ini.
+  rateLimitExceededWhatDoesErrorMean: Apa maksudnya?
+  rateLimitExceededErrorMeaning: Situs ini menggunakan API GitHub untuk mengakses data waktu nyala tentang status situs-situs ini. Secara default, GitHub mengizinkan setiap alamat IP membuat 60 permintaan per jam, yang semuanya telah Anda gunakan.
+  rateLimitExceededErrorHowCanFix: Bagaimana cara memperbaikinya?
+  rateLimitExceededErrorFix: Anda dapat menunggu satu jam lagi dan batas alamat IP Anda akan dipulihkan. Sebagai alternatif, Anda dapat menambahkan Token Akses Pribadi GitHub Anda, yang memperbolehkan Anda membuat 5.000 permintaan tambahan per jam.
+  rateLimitExceededGeneratePAT: Pelajari cara membuat Token Akses Pribadi
+  rateLimitExceededHasSet: Anda memiliki set token akses pribadi.
+  rateLimitExceededRemoveToken: Hapus token
+  rateLimitExceededGitHubPAT: Token Akses Pribadi GitHub
+  rateLimitExceededCopyPastePAT: Salin dan tempel token Anda
+  rateLimitExceededSaveToken: Simpan token
+  errorTitle: Terjadi kesalahan
+  errorIntro: Terjadi kesalahan saat mencoba mendapatkan rincian status terbaru.
+  errorText: Anda dapat mencoba lagi dalam beberapa saat. 
+  errorHome: Kembali ke beranda
+  pastScheduledMaintenance: Pemeliharaan Terjadwal Sebelumnya 
+  scheduledMaintenance: Pemeliharaan Terjadwal
+  scheduledMaintenanceSummaryStarted: Dimulai pada $DATE selama $DURATION menit
+  scheduledMaintenanceSummaryStarts: Akan dimulai pada $DATE selama $DURATION menit
+  startedAt: Dimulai pada
+  startsAt: Akan dmulai pada
+  duration: Durasi
+  durationMin: $DURATION menit
+  incidentCompleted: Selesai
+  incidentScheduled: Dijadwalkan
+
+  # url: "URL"
+  # status: "Status"
+  # history: "History"
+  # responseTime: "Response Time"
+  # uptime: "Uptime"
+  # up: "🟩 Up"
+  # degraded: "🟨 Degraded"
+  # down: "🟥 Down"
+  # responseTimeGraphAlt: "Response time graph"
+  # ms: "ms"
+  # responseTime: "Response time"
+  # responseTimeDay: "24-hour response time"
+  # responseTimeWeek: "7-day response time"
+  # responseTimeMonth: "30-day response time"
+  # responseTimeYear: "1-year response time"
+  # uptime: "All-time uptime"
+  # uptimeDay: "24-hour uptime"
+  # uptimeWeek: "7-day uptime"
+  # uptimeMonth: "30-day uptime"
+  # uptimeYear: "1-year uptime"
+  # liveStatus: "Live Status"
+  # liveStatusHtmlComment: "<!--live status-->"
+  # allSystemsOperational: "🟩 All systems operational"
+  # degradedPerformance: "🟨 Degraded performance"
+  # completeOutage: "🟥 Complete outage"
+  # partialOutage: "🟧 Partial outage"
