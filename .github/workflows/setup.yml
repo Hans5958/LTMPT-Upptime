@@ -58,7 +58,7 @@ jobs:
       - uses: peaceiris/actions-gh-pages@v3.7.3
         name: GitHub Pages Deploy
         with:
-          GH_PAT: ${{ secrets.GH_PAT }}
+          github_token: ${{ secrets.GH_PAT }}
           publish_dir: "site/status-page/__sapper__/export/"
           user_name: "Auto5958"
           user_email: "69833949+Auto5958@users.noreply.github.com"
