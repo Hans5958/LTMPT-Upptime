@@ -22,9 +22,9 @@
     "url": "https://portal.ltmpt.ac.id",
     "icon": "https://favicons.githubusercontent.com/portal.ltmpt.ac.id",
     "slug": "portal-ltmpt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1450,
     "timeMonth": 1618,
     "timeYear": 1757,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-05": 0
+    }
   },
   {
     "name": "Laman Unduhan LTMPT",
