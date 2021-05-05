@@ -22,19 +22,19 @@
     "url": "https://portal.ltmpt.ac.id",
     "icon": "https://favicons.githubusercontent.com/portal.ltmpt.ac.id",
     "slug": "portal-ltmpt",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1757,
-    "timeDay": 1086,
-    "timeWeek": 1450,
-    "timeMonth": 1618,
-    "timeYear": 1757,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1747,
+    "timeDay": 1084,
+    "timeWeek": 1404,
+    "timeMonth": 1603,
+    "timeYear": 1747,
     "dailyMinutesDown": {
-      "2021-05-05": 0
+      "2021-05-05": 15
     }
   },
   {
